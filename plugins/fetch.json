@@ -1,0 +1,9 @@
+{
+    "com.randdusing.bluetoothle": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/randdusing/BluetoothLE",
+            "subdir": "."
+        }
+    }
+}
